@@ -229,6 +229,7 @@ Et imaginons 100% de la population vaccinée : le vaccin n’étant pas efficace
 * Pour les vaccins à ARNm, le taux de protection semble diminuer avec le temps, et a baissé contre le variant delta, mais reste pour l’heure très efficace, à ≈90 % de protection contre le virus.
 * Astra-Zeneca voit son efficacité en revanche sensiblement affectée à -15 % mais demeure à plus de 66 %. Janssen ne perd qu’environ 1,6 % d’efficacité. 
 
+Source : [Vidal](https://www.vidal.fr/actualites/27475-variants-de-sars-cov-2-quelle-efficacite-pour-les-vaccins-en-vie-reelle.html)
 ---
 
 ## “Ça n'empêche pas d'aller à l'hôpital”
@@ -239,7 +240,7 @@ Et imaginons 100% de la population vaccinée : le vaccin n’étant pas efficace
 
 ---
 
-# Les effets indésirables sont nombreux et graves
+# “Les effets indésirables sont nombreux et graves”
 
 ## Pharmacovigilance en France au 29/07 :
 - Moderna : 7757 effets indésirables / 6 996 000 injections → 0,11 %.
