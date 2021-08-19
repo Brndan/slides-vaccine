@@ -277,7 +277,7 @@ Source : [ANSM](https://ansm.sante.fr/actualites/point-de-situation-sur-la-surv
 
 # Le $R_{0}$, comment ça marche ?
 
-- $R_{0}$ : nombre moyen qu'1 personne contamine (sans gestes barrières).
+- $R_{0}$ : nombre moyen de personnes qu'1 individu contamine (sans gestes barrières).
 * Covid historique : estimé à $R_{0} = 3$
 * Covid variant δ : estimé à $R_{0} = 6$
 
