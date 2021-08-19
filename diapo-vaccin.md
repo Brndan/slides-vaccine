@@ -107,7 +107,7 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 
 ---
 
-* Le vaccin injecté, les ARNm se répandent dans l’organisme et sont absorbés par les cellules
+- Le vaccin injecté, les ARNm se répandent dans l’organisme et sont absorbés par les cellules
 * Les ARNm demandent aux ribosomes de produire la protéine Spike qui est caractéristique du virus Sars-cov-2. La protéine en elle-même n’a aucun effet sur l’organisme.
 * Les défenses immunitaires s’attaquent aux protéines Spike dans l’organisme : l’organisme « apprend » à reconnaître le virus et produire une défense adaptée.
 
@@ -118,7 +118,7 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 # Les objections et questions
 
 * De nombreuses questions sont soulevées sur la vaccination.
-* À SUD, on milite pour le progrès social : le vaccin accessible à toutes et tous en fait partie.
+* À SUD, on milite pour le progrès social : le vaccin accessible à toutes et tous en fait partie : il s'agit donc de répondre à ces questions en fonction des infos dont on dispose.
 
 
 ---
