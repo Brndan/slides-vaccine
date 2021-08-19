@@ -218,15 +218,15 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 
 ---
 
-### Rêvons un peu
+## Rêvons un peu
 
-Et imaginons 100% de la population vaccinée : le vaccin n’étant pas efficace à 100%, les nouvelles contaminations seront toutes des personnes vacciné⋅es.
+Et imaginons 100% de la population vaccinée : le vaccin n’étant pas efficace à 100%, les nouvelles contaminations seront **toutes** des personnes vacciné⋅es.
 
 ---
 
 # “Les vaccins protègent peu face au variant δ”
 
-* Pour les vaccins à ARNm, le taux de protection semble diminuer avec le temps, et a baissé contre le variant delta, mais reste pour l’heure très efficace, à ±90 % de protection contre le virus.
+* Pour les vaccins à ARNm, le taux de protection semble diminuer avec le temps, et a baissé contre le variant delta, mais reste pour l’heure très efficace, à ≈90 % de protection contre le virus.
 * Astra-Zeneca voit son efficacité en revanche sensiblement affectée à -15 % mais demeure à plus de 66 %. Janssen ne perd qu’environ 1,6 % d’efficacité. 
 
 ---
