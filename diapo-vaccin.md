@@ -44,11 +44,11 @@ Ce document n’est pas une publication scientifique.
 
 ---
 
-## Favoriser la production d’anticorps
+## 🎯 Favoriser la production d’anticorps
 - La vaccination consiste à susciter une réponse immunitaire à l’organisme, sans l’exposer au danger réel. 
 - Confronté au danger réel, l’organisme mobilisera plus efficacement ses défenses immunitaires, et évitera la sous-réaction ou la sur-réaction.
 
-➡ Le principe a été affiné depuis **220 ans**.
+➡️ Le principe a été affiné depuis **220 ans**.
 
 --- 
 
@@ -58,7 +58,7 @@ Ce document n’est pas une publication scientifique.
 - Virus atténués : BCG, ROR
 - Organismes différents de l’agent infectieux modifiés pour produire les protéines reconnaissables par l’organisme : tétanos, hépatite B, variole…  
     + Covid : Janssen, Astra-Zeneca, Sputnik-V
-- et bien d’autres, dont les vaccins dits à ARNm.
+- et bien d’autres, dont les vaccins dits à ARNm. ⤵️
 
 ---
 
