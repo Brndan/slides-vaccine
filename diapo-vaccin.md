@@ -196,7 +196,7 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 * 175 cas d’adultes non ou partiellement vaccinés
 * 116 adultes vacciné⋅es. 
 
-## ➡️ Les vacciné-e-s représentent donc **40% des contaminations** !
+## ➡️ Les vacciné-e-s représentent donc 40% des contaminations ! ☣️☣️☣️
 
 ---
 
