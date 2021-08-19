@@ -252,7 +252,7 @@ Source : [Vidal](https://www.vidal.fr/actualites/27475-variants-de-sars-cov-2-qu
 
 * 25 % des effets indésirables sont jugés sérieux (arythmie cardiaque, myocardite essentiellement). Aucun décès n’est confirmé être en lien avec le vaccin, sauf pour Astra-Zeneca : 13 décès (thrombose) sur 59 cas recensés.
 Le risque de décès est donc de 13/7 679 000 = 0,000 169 293 %.
-* Par comparaison, la mortalité Covid-19 en France est [estimée à 1,74 %](https://ourworldindata.org/mortality-risk-covid?country=~FRA#the-case-fatality-rate) au 13/08, sans compter les Covid longs invalidants. Ce taux est plus élevé quand le système de santé est débordé comme en Guadeloupe et Martinique.
+* Par comparaison, la mortalité Covid-19 en France est [estimée à 1,74 %](https://ourworldindata.org/mortality-risk-covid?country=~FRA#the-case-fatality-rate) au 13/08, sans compter les Covid longs invalidants. Ce taux peut devenir plus élevé quand le système de santé est débordé comme en Guadeloupe et Martinique.
 
 Source : [ANSM](https://ansm.sante.fr/actualites/point-de-situation-sur-la-surveillance-des-vaccins-contre-la-covid-19-periode-du-23-07-2021-au-29-07-2021), pharmacovigilance
 
