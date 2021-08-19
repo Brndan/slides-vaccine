@@ -200,7 +200,7 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 
 ---
 
-### Mais…
+## Mais…
 * 175 non vacciné⋅es = 19 cas pour 100 000 habitant⋅es non-vacciné⋅es
 * 116 vacciné⋅es = 2,2 cas pour 100 000 habitant⋅es non-vacciné⋅es
 * $\frac{19}{2.2} \approx 8.6$ → Les non-vacciné⋅es ont 8,6× +de chances d'être contaminé⋅es.
