@@ -295,9 +295,9 @@ Source : [CDC](https://www.cdc.gov/coronavirus/2019-ncov/variants/delta-variant.
 
 # “Il existe des traitements”
 
-- Hydroxychloroquine : la recherche a [largement démontré](https://www.nature.com/articles/s41467-021-22446-z) que l’usage de cette molécule n’a au mieux aucun effet, au pire aggrave l’état de santé des malades
-- Ivermectine : l’étude qui visait à démontrer l’efficacité de l’ivermectine et a été utilisée comme source sur les réseaux sociaux était [une fraude](https://grftr.news/why-was-a-major-study-on-ivermectin-for-covid-19-just-retracted/) : elle a même été retirée par l’éditeur.
-- Les recherches sur les traitements se poursuivent, et de nombreux essais sont en cours. Mais sur ces traitements le recul est bien plus faible que sur les vaccins
+* Hydroxychloroquine : la recherche a [largement démontré](https://www.nature.com/articles/s41467-021-22446-z) que l’usage de cette molécule n’a au mieux aucun effet, au pire aggrave l’état de santé des malades
+* Ivermectine : l’étude qui visait à démontrer l’efficacité de l’ivermectine et a été utilisée comme source sur les réseaux sociaux était [une fraude](https://grftr.news/why-was-a-major-study-on-ivermectin-for-covid-19-just-retracted/) : elle a même été retirée par l’éditeur.
+* Les recherches sur les traitements se poursuivent, et de nombreux essais sont en cours. Mais sur ces traitements le recul est bien plus faible que sur les vaccins
 
 ---
 
