@@ -1,0 +1,21 @@
+/* @theme sud */
+
+@import 'default';
+
+section {
+  /* Specify slide size */
+  /*width: 960px;
+  height: 720px; */
+}
+
+h1,h2,h3 {
+  /* font-size: 30px;*/
+  color: red;
+  font-family: 'Montserrat Black';
+}
+
+
+ul {
+    list-style: "– ";
+}
+
