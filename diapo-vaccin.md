@@ -191,11 +191,12 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 
 ---
 
-### Le 30/06 : 291 nouveaux contaminé⋅es
+## Le 30/06 : 291 nouveaux contaminé⋅es
 
-* 175 cas d’adultes non ou partiellement vaccinés (soit 19 cas pour 100 000 habitants non-vacciné⋅es).
-* 116 adultes vacciné⋅es, 2,2 cas pour 100 000 vacciné⋅es. 
-* Les vacciné-e-s représentent donc **40% des nouvelles contaminations** !
+* 175 cas d’adultes non ou partiellement vaccinés
+* 116 adultes vacciné⋅es. 
+
+## ➡️ Les vacciné-e-s représentent donc **40% des contaminations** !
 
 ---
 
