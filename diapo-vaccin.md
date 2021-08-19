@@ -24,12 +24,12 @@ Ce document n’est pas une publication scientifique.
 # À l’origine du vaccin : la variolisation
 * Une pratique ancienne, constatée en Chine et sur le continent africain
 * Exposer un individu à des tissus infectés d’une souche qu’on espère moins virulente
-* À partir du 18<sup>e</sup> siècle, développement en Europe, Russie et en Amérique
+* À partir du 18<sup>e</sup> siècle, développement en Europe, Russie et USA / Canada
 
 --- 
 
 # Développement du vaccin
-* 1798 : Edward Jenner démontre qu’inoculer la variole des vaches est sans danger et protège de la variole humaine également. 
+* 1798 : Edward Jenner montre empiriquement qu’inoculer la variole des vaches est sans danger et protège de la variole humaine. 
 * C’est le 1<sup>er</sup> vaccin. Au 19<sup>e</sup> siècle, de nombreux vaccins suivront.
 
 ---
@@ -147,7 +147,7 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 
 ---
 
-# “Mais les vaccins est encore en phase d’expérimentation !”
+# “Mais les vaccins sont encore en phase d’expérimentation !”
 
 - Phase préclinique : tests sur les animaux.
 - Phase 1 : peu de personnes en bonne santé, on cherche à savoir si le produit est toxique. Plusieurs mois en général.
