@@ -199,11 +199,15 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 ## ➡️ Les vacciné-e-s représentent donc 40% des contaminations ! ☣️☣️☣️
 
 ---
-
 ## Mais…
 * 175 non-vacciné⋅es = 19 cas pour 100 000 habitant⋅es non-vacciné⋅es
 * 116 vacciné⋅es = 2,2 cas pour 100 000 habitant⋅es non-vacciné⋅es
-* $\frac{19}{2.2} \approx 8.6$ → Les non-vacciné⋅es ont 8,6× +de chances d'être contaminé⋅es.
+
+---
+## Mais…
+- 175 non-vacciné⋅es = 19 cas pour 100 000 habitant⋅es non-vacciné⋅es
+- 116 vacciné⋅es = 2,2 cas pour 100 000 habitant⋅es non-vacciné⋅es
+- $\frac{19}{2.2} \approx 8.6$ → Les non-vacciné⋅es ont 8,6× +de chances d'être contaminé⋅es.
 * Il faut donc comparer ce qui est comparable : les vacciné⋅es et les non-vacciné⋅es
 
 ---
