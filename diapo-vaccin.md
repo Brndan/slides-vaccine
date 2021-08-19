@@ -172,7 +172,7 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 
 * Une fois compris le fonctionnement des vaccins à ARNm, on se rend compte que c’est peu problable.
 * Les scientifiques se sont tout de même posé la question : la réponse est [non](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00961-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS221112472100961X%3Fshowall%3Dtrue).
-* [Attraper le virus qui risque de modifier](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00961-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS221112472100961X%3Fshowall%3Dtrue) le génome (8% de notre génome vient de virus). 
+* [Attraper le virus risque de modifier](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00961-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS221112472100961X%3Fshowall%3Dtrue) le génome (8% de notre génome provient de virus). 
 
 ---
 
