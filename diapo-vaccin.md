@@ -196,6 +196,8 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 * 175 cas d’adultes non ou partiellement vaccinés
 * 116 adultes vacciné⋅es. 
 
+--- 
+
 ## ➡️ Les vacciné-e-s représentent donc 40% des contaminations ! ☣️☣️☣️
 
 ---
@@ -231,6 +233,7 @@ Et imaginons 100% de la population vaccinée : le vaccin n’étant pas efficace
 * Astra-Zeneca voit son efficacité en revanche sensiblement affectée à -15 % mais demeure à plus de 66 %. Janssen ne perd qu’environ 1,6 % d’efficacité. 
 
 Source : [Vidal](https://www.vidal.fr/actualites/27475-variants-de-sars-cov-2-quelle-efficacite-pour-les-vaccins-en-vie-reelle.html)
+
 ---
 
 ## “Ça n'empêche pas d'aller à l'hôpital”
@@ -294,10 +297,11 @@ Source : [CDC](https://www.cdc.gov/coronavirus/2019-ncov/variants/delta-variant.
 
 ---
 
-# “Il existe des traitements”
+## “Il existe des traitements”
 
 * Hydroxychloroquine : la recherche a [largement démontré](https://www.nature.com/articles/s41467-021-22446-z) que l’usage de cette molécule n’a au mieux aucun effet, au pire aggrave l’état de santé des malades
 * Ivermectine : l’étude qui visait à démontrer l’efficacité de l’ivermectine et a été utilisée comme source sur les réseaux sociaux était [une fraude](https://grftr.news/why-was-a-major-study-on-ivermectin-for-covid-19-just-retracted/) : elle a même été retirée par l’éditeur.
+* Remdesivir : [retiré](https://www.has-sante.fr/jcms/p_3201940/fr/evaluation-des-traitements-de-la-covid-19-la-has-publie-son-evaluation-du-remdesivir) de la demande de remboursement par le labo
 * Les recherches sur les traitements se poursuivent, et de nombreux essais sont en cours. Mais sur ces traitements le recul est bien plus faible que sur les vaccins
 
 ---
