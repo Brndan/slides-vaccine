@@ -4,13 +4,21 @@ marp: true
 paginate: true
 theme: sud
 footer: "![left fit](media/logo_SUD_educ-100.png) "
-title: Vaccin
+title: Vaccination : enjeux, débats et récupérations par l’extrême-droite
 
 ---
 
-# Le point sur le vaccin
-
 <!-- footer: "" -->
+
+![bg contain left](media/Logo-SUDéducationSolidaires.png)
+
+# Vaccination : enjeux, débats et récupérations par l’extrême-droite
+
+---
+
+# Partie 1
+
+# Le point sur le vaccin
 
 ![bg contain left](media/Logo-SUDéducationSolidaires.png)
 
@@ -19,6 +27,8 @@ Septembre 2021
 Ce document n’est pas une publication scientifique.
 
 ---
+
+
 <!-- footer: "![logo](media/logo_SUD_educ-100.png)" -->
 
 # À l’origine du vaccin : la variolisation
