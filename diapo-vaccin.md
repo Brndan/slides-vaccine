@@ -183,7 +183,7 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 
 ---
 
-# “En Israël, la majorité des contaminé⋅es est vaccinée”
+# “En Israël / Islande, la majorité des contaminé⋅es est vaccinée”
 
 *Le Monde* propose une [modélisation simple](https://www.lemonde.fr/les-decodeurs/article/2021/07/02/covid-19-les-vaccines-representent-40-des-nouveaux-cas-en-israel-et-c-est-une-bonne-nouvelle_6086759_4355770.html) de la situation israélienne.
 * au 1<sup>er</sup> juillet = 5,17 Mio d’adultes complètement vacciné⋅es sur 6 Mio d’adultes + 442 000 personnes partiellement vaccinées. 
