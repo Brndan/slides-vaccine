@@ -169,10 +169,10 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 
 # “Dans le cas du vaccin contre le Covid-19, c’est allé trop vite !”
 
-* Le facteur le plus important : une pandémie → il a été donc très facile d’opérer des études sur des dizaines de milliers de personnes (entre 30 000 et 50 000 selon les vaccins). 
+* Le facteur le plus important : une pandémie → très facile d’opérer des études sur des dizaines de milliers de personnes (entre 30 000 et 50 000 selon les vaccins). 
 * Les laboratoires ont donc pu fournir des études statistiques probantes avec un délai raccourci aux agences du médicament en UE, RU et USA.
 * Les vaccins à ARNm peuvent être produits très rapidement, car ils ne nécessitent pas de processus de culture.
-* Les vaccins sont tous aujourd’hui en période de pharmacovigilance : on recherche les effets indésirables très rares qui auraient échappé aux tests, et aux contre-indications.
+* Les vaccins sont tous aujourd’hui en période de pharmacovigilance : on recherche les effets indésirables très rares qui auraient échappé aux tests et aux contre-indications.
 
 ---
 
