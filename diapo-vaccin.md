@@ -330,7 +330,51 @@ Source : [CDC](https://www.cdc.gov/coronavirus/2019-ncov/variants/delta-variant.
 
 ---
 
-# Les limites
+# “Le vaccin va rendre le virus encore plus dangereux”
+
+Une mutation qui permet à un virus de passer d'une espèce animal à l'humain donne un avantage considérable :
+
+L’accès à l'espèce de grande taille de très loin la plus répandue sur Terre.
+
+---
+
+# Pression sélective
+
+La sélection naturelle favorise les virus qui se reproduisent **plus vite** dans **davantage d'hôtes**.
+* Le $R$ du virus va augmenter (contaminer plus)
+* L'intervalle sériel va diminuer (contaminer plus vite)
+* Un virus atteint un [équilibre](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13692) entre virulence et transmission
+
+---
+
+# Quel impact du vaccin ?
+
+- Le virus va augmenter sa virulence : il faut qu'il se reproduise plus et plus vite pour avoir une chance d'être transmis.
+- Il va donc causer des dommages plus importants, au moins aux non-vacciné⋅es
+
+---
+
+# À court terme, à quoi s'attendre ?
+
+* $R$ ↗
+* Intervalle sériel ↘
+* Baisse graduelle d'efficacité des vaccins actuels
+
+Source : UK [Scientific Advisory Group for Emergencies](https://www.gov.uk/government/publications/long-term-evolution-of-sars-cov-2-26-july-2021)
+
+---
+
+# À moyen et long terme
+* Glissement antigénique : nouveaux vaccins nécessaires
+* Recombinaison avec un virus existant possible
+* Rétrozoonose (humain → animal → humain) possible
+* Si ni recombinaison, ni rétrozoonose : la létalité diminuera probablement fortement
+
+Source : [SAGE](https://www.gov.uk/government/publications/long-term-evolution-of-sars-cov-2-26-july-2021)
+
+--- 
+
+# Les vaccins ont des limites
 
 * Les défenses immunitaires s'affaiblissent avec le temps…
 * …Et il semble qu'elles s'affaiblissent vite
@@ -338,6 +382,14 @@ Source : [CDC](https://www.cdc.gov/coronavirus/2019-ncov/variants/delta-variant.
 * Or des continents entiers n'ont pas accès au vaccin
 * La vaccination de masse doit être organisée partout pour espérer sortir de la pandémie.
 * Levée des brevets & transferts de technologie indispensables !
+
+---
+
+# Une note d’espoir
+
+* Il semble que le virus n'ait que [peu de possibilités chimiques](https://www.nature.com/articles/s41591-021-01421-7) d'échapper aux vaccins
+* La pression sélective risque donc de l'orienter vers un accroissement important du $R$
+* *Nature* évoque les raisons d’être “très prudemment optimiste”, et indique que la seule solution aujourd'hui est une vaccination mondiale.
 
 ---
 
