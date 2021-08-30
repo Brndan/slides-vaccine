@@ -213,7 +213,7 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 ---
 ## Mais…
 * 175 non-vacciné⋅es = 19 cas pour 100 000 habitant⋅es non-vacciné⋅es
-* 116 vacciné⋅es = 2,2 cas pour 100 000 habitant⋅es non-vacciné⋅es
+* 116 vacciné⋅es = 2,2 cas pour 100 000 habitant⋅es vacciné⋅es
 
 ---
 ## Mais…
