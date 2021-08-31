@@ -22,7 +22,7 @@ title: Vaccination : enjeux, débats et récupérations par l’extrême-droite
 
 ![bg contain left](media/Logo-SUDéducationSolidaires.png)
 
-Septembre 2021
+31 août 2021
 
 Ce document n’est pas une publication scientifique.
 
@@ -127,9 +127,6 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 
 # Les objections et questions
 
-* De nombreuses questions sont soulevées sur la vaccination.
-* À SUD, on milite pour le progrès social : le vaccin accessible à toutes et tous en fait partie : il s'agit donc de répondre à ces questions en fonction des infos dont on dispose.
-
 
 ---
 
@@ -203,7 +200,7 @@ Source : [Inserm](https://www.inserm.fr/c-est-quoi/secret-fabrication-c-est-quo
 
 ## Le 30/06 : 291 nouveaux contaminé⋅es
 
-* 175 cas d’adultes non ou partiellement vaccinés
+* 175 cas d’adultes non ou partiellement vacciné⋅es
 * 116 adultes vacciné⋅es. 
 
 --- 
@@ -240,7 +237,7 @@ Et imaginons 100% de la population vaccinée : le vaccin n’étant pas efficace
 # “Les vaccins protègent peu face au variant δ”
 
 * Pour les vaccins à ARNm, le taux de protection semble diminuer avec le temps, et a baissé contre le variant delta, mais reste pour l’heure très efficace, à ≈90 % de protection contre le virus.
-* Astra-Zeneca voit son efficacité en revanche sensiblement affectée à -15 % mais demeure à plus de 66 %. Janssen ne perd qu’environ 1,6 % d’efficacité. 
+* Astra-Zeneca voit son efficacité en revanche sensiblement affectée à -15 % mais demeure à plus de 66 %. 
 
 Source : [Vidal](https://www.vidal.fr/actualites/27475-variants-de-sars-cov-2-quelle-efficacite-pour-les-vaccins-en-vie-reelle.html)
 
@@ -249,7 +246,7 @@ Source : [Vidal](https://www.vidal.fr/actualites/27475-variants-de-sars-cov-2-qu
 ## “Ça n'empêche pas d'aller à l'hôpital”
 
 
-* Dans tous les cas, les vaccins protègent des Covid longs et de formes graves sans perdre d’efficacité dans le cas du [variant delta](https://www.vidal.fr/actualites/27475-variants-de-sars-cov-2-quelle-efficacite-pour-les-vaccins-en-vie-reelle.html).
+* Les vaccins protègent des Covid longs et de formes graves à environ 90% dans le cas du [variant delta](https://www.vidal.fr/actualites/27475-variants-de-sars-cov-2-quelle-efficacite-pour-les-vaccins-en-vie-reelle.html).
 * Les malades ont 8,64× plus de chance de devoir passer par la case réanimation s’ils ou elles ne sont pas vacciné-e-s (chiffres SPF 17/08).
 
 ---
@@ -265,7 +262,7 @@ Source : [Vidal](https://www.vidal.fr/actualites/27475-variants-de-sars-cov-2-qu
 ## Effets indésirables au 29/07 :
 
 * 25 % des effets indésirables sont jugés sérieux (arythmie cardiaque, myocardite essentiellement). Aucun décès n’est confirmé être en lien avec le vaccin, sauf pour Astra-Zeneca : 13 décès (thrombose) sur 59 cas recensés.
-Le risque de décès est donc de 13/7 679 000 = 0,000 169 293 %.
+La proportion de décès est donc de 13/7 679 000 = 0,000 169 293 %.
 * Par comparaison, la mortalité Covid-19 en France est [estimée à 1,74 %](https://ourworldindata.org/mortality-risk-covid?country=~FRA#the-case-fatality-rate) au 13/08, sans compter les Covid longs invalidants. Ce taux peut devenir plus élevé quand le système de santé est débordé comme en Guadeloupe et Martinique.
 
 Source : [ANSM](https://ansm.sante.fr/actualites/point-de-situation-sur-la-surveillance-des-vaccins-contre-la-covid-19-periode-du-23-07-2021-au-29-07-2021), pharmacovigilance
@@ -284,8 +281,8 @@ Source : [ANSM](https://ansm.sante.fr/actualites/point-de-situation-sur-la-surv
 
 # “Moi je suis en bonne santé, je ne risque rien”
 
-* Le risque existe pour chacun⋅e, même les enfants : multiplié par le nombre de cas, il explique l'arrivée de patients jeunes dans les services de réa
-* C'est une réaction individualiste : pour protéger les plus faibles, il faut vacciner le plus possible
+* Le risque existe pour chacun⋅e, même les enfants : multiplié par le nombre de cas, il explique l'arrivée de patient⋅es plus jeunes dans les services de réa
+* Pour protéger les plus faibles, il faut vacciner le plus possible : le vaccin réduit le temps durant lequel on contamine. Il réduit les risques d'hospitalisation, permettant de traiter d'autres patient⋅es.
 
 ---
 
@@ -312,29 +309,13 @@ Source : [CDC](https://www.cdc.gov/coronavirus/2019-ncov/variants/delta-variant.
 * Hydroxychloroquine : la recherche a [largement démontré](https://www.nature.com/articles/s41467-021-22446-z) que l’usage de cette molécule n’a au mieux aucun effet, au pire aggrave l’état de santé des malades
 * Ivermectine : l’étude qui visait à démontrer l’efficacité de l’ivermectine et a été utilisée comme source sur les réseaux sociaux était [une fraude](https://grftr.news/why-was-a-major-study-on-ivermectin-for-covid-19-just-retracted/) : elle a même été retirée par l’éditeur.
 * Remdesivir : [retiré](https://www.has-sante.fr/jcms/p_3201940/fr/evaluation-des-traitements-de-la-covid-19-la-has-publie-son-evaluation-du-remdesivir) de la demande de remboursement par le labo
-* Les recherches sur les traitements se poursuivent, et de nombreux essais sont en cours. Mais sur ces traitements le recul est bien plus faible que sur les vaccins
-
----
-
-# “Je ne fais aucune confiance en l’État !”
-
-* À SUD non plus : le gouvernement a menti régulièrement
-
----
-
-## Par contre on fait confiance à la communauté scientifique
-
-* La démarche scientifique repose sur le débat, la critique et la confrontation d’idées.
-* C’est par l’échange de données et de publications que se forge le consensus scientifique, toujours nuancé. Cette démarche est un pilier de la science moderne.
-* Le cas du Covid n’échappe pas à cette règle, et les publications ont été très nombreuses : elles permettent d’établir un certain nombre de faits en lesquels on peut avoir confiance, même si ces éléments vont s’ajuster avec le temps.
+* Les recherches sur les traitements se poursuivent, et de nombreux essais sont en cours. Mais sur ces traitements le recul est bien plus faible que sur les vaccins, connus et maîtrisés depuis longtemps. Ce sera donc long.
 
 ---
 
 # “Le vaccin va rendre le virus encore plus dangereux”
 
-Une mutation qui permet à un virus de passer d'une espèce animal à l'humain donne un avantage considérable :
-
-L’accès à l'espèce de grande taille de très loin la plus répandue sur Terre.
+Une mutation qui permet à un virus de passer d'une espèce animal à l'humain donne un avantage considérable :l’accès à l'espèce de grande taille de très loin la plus répandue sur Terre.
 
 ---
 
@@ -350,6 +331,7 @@ La sélection naturelle favorise les virus qui se reproduisent **plus vite** dan
 # Quel impact du vaccin ?
 
 - Le virus va augmenter sa virulence : il faut qu'il se reproduise plus et plus vite pour avoir une chance d'être transmis.
+- Les futures mutations qui se développeront iront dans ce sens.
 - Il va donc causer des dommages plus importants, au moins aux non-vacciné⋅es
 
 ---
@@ -361,16 +343,6 @@ La sélection naturelle favorise les virus qui se reproduisent **plus vite** dan
 * Baisse graduelle d'efficacité des vaccins actuels
 
 Source : UK [Scientific Advisory Group for Emergencies](https://www.gov.uk/government/publications/long-term-evolution-of-sars-cov-2-26-july-2021)
-
----
-
-# À moyen et long terme
-* Glissement antigénique : nouveaux vaccins nécessaires
-* Recombinaison avec un virus existant possible
-* Rétrozoonose (humain → animal → humain) possible
-* Si ni recombinaison, ni rétrozoonose : la létalité diminuera probablement fortement
-
-Source : [SAGE](https://www.gov.uk/government/publications/long-term-evolution-of-sars-cov-2-26-july-2021)
 
 --- 
 
@@ -393,9 +365,15 @@ Source : [SAGE](https://www.gov.uk/government/publications/long-term-evolution-o
 
 ---
 
-## Avertissement
+# “Je ne fais aucune confiance en l’État !”
 
-* ⚠️ Quand on brandit le nom d'un seul scientifique, quelle que soit sa renommée et ses titres, il faut être particulièrement méfiant⋅e.
-* Une nouvelle particulièrement différente de ce que l'on sait déjà doit faire l'objet d'une étude approfondie
-* Quelques pistes parmi d'autres : qui signe l'article ? revue à comité de lecture ? Quel accueil fait la communauté ? Est-ce que ça renforce mes préjugés ?
+* À SUD non plus : le gouvernement a menti régulièrement : gravité de l'épidémie, masques, passe sanitaire…
+
+---
+
+## Par contre on fait confiance à la discussion scientifique
+
+* La démarche scientifique repose sur le débat, la critique et la confrontation d’idées.
+* C’est par l’échange de données et de publications que se forge le consensus scientifique, toujours nuancé. Cette démarche est un pilier de la science moderne.
+* Le cas du Covid n’échappe pas à cette règle, et les publications ont été très nombreuses : elles permettent d’établir un certain nombre de faits en lesquels on peut avoir confiance, même si ces éléments vont s’ajuster avec le temps.
 
